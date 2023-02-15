@@ -1,0 +1,8 @@
+addReviewers: true
+addAssignees: true
+reviewers:
+  - reviewerA
+numberOfReviewers: 0
+assignees:
+  - AngelsTech
+numberOfAssignees: 0
